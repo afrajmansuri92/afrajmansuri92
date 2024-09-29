@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @afrajmansuri92
-- 👀 I’m interested in Data science and Machine Learning
-- 🌱 I’m currently learning computer science(pusrsuing)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me . afrajm786@gmail.com
+ 👋 Hi, I'm [AFRAJ]!
+🚀 Data Scientist | Developer | Mentor | Tech Enthusiast
 
-<!---
-afrajmansuri92/afrajmansuri92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍🎓 B.Tech in Computer Science Engineering (Specialization in Data Science)
+🎓 Valedictorian of my graduating class
+💻 Passionate about solving real-world problems through data and technology
+
+🌟 I specialize in Data Science, Software Development, and enjoy mentoring aspiring developers while leading teams to success. I'm always excited about the latest advancements in tech.
+
+🔭 Currently exploring:
+
+Generative AI
+Machine Learning
+Prompt Engineering
+🌱 I’m always learning and improving my skills to stay at the forefront of tech!
+💬 Let’s collaborate and build something amazing together!
+📫 Get in touch:
+
+Email: afrajm786@gmail.com
