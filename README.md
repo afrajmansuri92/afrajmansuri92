@@ -1,4 +1,4 @@
- 👋 Hi, I'm [AFRAJ]!
+ 👋 Hi, I'm AFRAJ 
 🚀 Data Scientist | Developer | Mentor | Tech Enthusiast
 
 👨‍🎓 B.Tech in Computer Science Engineering (Specialization in Data Science)
